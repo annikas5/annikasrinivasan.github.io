@@ -55,7 +55,7 @@ I used confocal microscopy to develop a non-invasive imaging and 3D-reconstructi
 
 
 
-![Image Description]((http://zkarachi.github.io/files/spermathecae.png) | <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
+![Image Description](http://zkarachi.github.io/files/spermathecae.png) | <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
 
 
 
