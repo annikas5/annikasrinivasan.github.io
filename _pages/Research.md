@@ -29,7 +29,7 @@ I developed a system to test the durability of a new mitral valve ring design th
 
 files/motor_setup_video.mp4
 
-<video src=="http://zkarachi.github.io/files/files/Ringtestvideo.mp4" controls width="400" height="300"></video> | <video src="http://zkarachi.github.io/files/files/motor_setup_video.mp4" controls width="400" height="300"></video>
+<video src=="http://zkarachi.github.io/files/files/Ringtestvideo.mp4" controls width="400" height="300"></video> | <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
 
 
 
