@@ -25,7 +25,7 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
 
 I developed a system to test the durability of a new mitral valve ring design that lasts significantly longer than currently available rings; this work was especially meaningful to me because a longer-lasting ring meant that patients did not have to replace their ring as often, thus offering a more affordable and accessible intervention.
 
-<video src="http://zkarachi.github.io/files/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
+<video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
 
 files/motor_setup_video.mp4
 
