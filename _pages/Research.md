@@ -11,10 +11,12 @@ author_profile: true
 
 I helped create a bimanual haptic feedback device to assist novice surgeons on the Intuitive Surgical da Vinci surgical robot. I developed Python code to collect and process force and acceleration data from sensors on the robot, and I remapped these signals to control wrist-squeezing and vibrotactile motors on the haptic feedback device. Furthermore, I ran user studies to test the effectiveness of these modalities with novice users.
 
-<div style="display:flex;">
-  ![Image 1](http://zkarachi.github.io/files/VD.png)
-  ![Image 2](http://zkarachi.github.io/files/WSD.png)
+
+<div>
+  <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="float:left; width:50%;">
+  <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="float:right; width:50%;">
 </div>
+
 
 
 ##  Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
@@ -33,7 +35,7 @@ I developed a system to test the durability of a new mitral valve ring design th
 
 
 <div style="display:flex;">
-  <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
+  <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400"   height="300"></video>
   <video src="http://zkarachi.github.io/files/motor_setup_video.mp4"controls width="400" height="300"></video>
 </div>
 
