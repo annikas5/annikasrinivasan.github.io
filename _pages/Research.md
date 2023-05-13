@@ -11,6 +11,12 @@ author_profile: true
 
 I helped create a bimanual haptic feedback device to assist novice surgeons on the Intuitive Surgical da Vinci surgical robot. I developed Python code to collect and process force and acceleration data from sensors on the robot, and I remapped these signals to control wrist-squeezing and vibrotactile motors on the haptic feedback device. Furthermore, I ran user studies to test the effectiveness of these modalities with novice users.
 
+<div style="display:flex;">
+  ![Image 1](http://zkarachi.github.io/files/files/VD.png)
+  ![Image 2](http://zkarachi.github.io/files/files/WSD.png)
+</div>
+
+
 ##  Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
 
 I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot’s controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
@@ -26,8 +32,10 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
 I developed a system to test the durability of a new mitral valve ring design that lasts significantly longer than currently available rings; this work was especially meaningful to me because a longer-lasting ring meant that patients did not have to replace their ring as often, thus offering a more affordable and accessible intervention.
 
 
-<video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video> | <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
-
+<div style="display:flex;">
+  <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
+  <video src="http://zkarachi.github.io/files/motor_setup_video.mp4"controls width="400" height="300"></video>
+</div>
 
 
 ---
