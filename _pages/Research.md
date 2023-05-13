@@ -50,6 +50,12 @@ With the hardships that hit the US with COVID-19, I wanted to understand the per
 
 I used confocal microscopy to develop a non-invasive imaging and 3D-reconstruction method for the sperm storage organ of female arachnids; I developed the first-ever noninvasive imaging method for arachnids and created the first 3D images of their sperm storage organs. 
 
+
+
+<video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 # Biology
