@@ -12,8 +12,8 @@ author_profile: true
 I helped create a bimanual haptic feedback device to assist novice surgeons on the Intuitive Surgical da Vinci surgical robot. I developed Python code to collect and process force and acceleration data from sensors on the robot, and I remapped these signals to control wrist-squeezing and vibrotactile motors on the haptic feedback device. Furthermore, I ran user studies to test the effectiveness of these modalities with novice users.
 
 <div style="display:flex;">
-  ![Image 1](http://zkarachi.github.io/files/files/VD.png)
-  ![Image 2](http://zkarachi.github.io/files/files/WSD.png)
+  ![Image 1](http://zkarachi.github.io/files/VD.png)
+  ![Image 2](http://zkarachi.github.io/files/WSD.png)
 </div>
 
 
