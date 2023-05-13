@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "I'm ok because I'm alive" understanding socio-cultural accessibility barriers for refugees with disabilities in the US"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+permalink: /publication/BarriersForRefugees
+date: 2022-27-04
+venue: 'Association for Computing Machinery'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3493612.3520446'
+citation: 'Foad Hamidi and **Zulekha Karachiwalla**. 2022. "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th International Web for All Conference (W4A '22). Association for Computing Machinery, New York, NY, USA, Article 26, 1–11.'
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Foad Hamidi and **Zulekha Karachiwalla**. 2022. "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th International Web for All Conference (W4A '22). Association for Computing Machinery, New York, NY, USA, Article 26, 1–11
