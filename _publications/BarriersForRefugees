@@ -1,14 +1,14 @@
 ---
-title: 'I'm ok because I'm alive" understanding socio-cultural accessibility barriers for refugees with disabilities in the US
+title: 'Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments'
 collection: publications
-permalink: /publication/BarriersForRefugees
-excerpt:
-date: 2022-10-04
-venue: 'Association for Computing Machinery'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3493612.3520446'
-citation: 'Foad Hamidi and **Zulekha Karachiwalla**. 2022. "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th International Web for All Conference (W4A '22). Association for Computing Machinery, New York, NY, USA, Article 26, 1–11.'
+permalink: /publication/HapticFeedback
+excerpt: 
+date: 2022-10-01
+venue: 'International Symposium on Medical Robotics'
+paperurl: '(https://ieeexplore.ieee.org/abstract/document/9807479)'
+citation: 'S. Machaca, **Z. Karachiwalla,** N. D. Riaziat and J. D. Brown, "Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments," 2022 International Symposium on Medical Robotics (ISMR), GA, USA, 2022, pp. 1-7.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zkarachi.github.io/files/paper3.pdf)
 
-Recommended citation: Foad Hamidi and **Zulekha Karachiwalla**. 2022. "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th International Web for All Conference (W4A '22). Association for Computing Machinery, New York, NY, USA, Article 26, 1–11
+Recommended citation: S. Machaca, **Z. Karachiwalla,** N. D. Riaziat and J. D. Brown, "Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments," 2022 International Symposium on Medical Robotics (ISMR), GA, USA, 2022, pp. 1-7.
