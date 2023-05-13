@@ -25,6 +25,9 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
 
 I developed a system to test the durability of a new mitral valve ring design that lasts significantly longer than currently available rings; this work was especially meaningful to me because a longer-lasting ring meant that patients did not have to replace their ring as often, thus offering a more affordable and accessible intervention.
 
+<video src="http://zkarachi.github.io/files/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
+
+
 ---
 
 # Work on Accessible Technology
@@ -52,7 +55,7 @@ I used confocal microscopy to develop a non-invasive imaging and 3D-reconstructi
 
 
 
-![Alternate Text](http://zkarachi.github.io/files/files/spermathecae.png) | <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
+![Image Description]((http://zkarachi.github.io/files/files/spermathecae.png) | <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
 
 
 
