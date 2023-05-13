@@ -57,7 +57,8 @@ I used confocal microscopy to develop a non-invasive imaging and 3D-reconstructi
 </video>
 
 ---
-s
+
+
 # Biology
 
 ## Spermathecal Variation By Mating System in Temperate Harvestmen
