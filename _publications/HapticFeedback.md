@@ -1,5 +1,5 @@
 ---
-title: 'Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments'
+title: 'TTowards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments'
 collection: publications
 permalink: /publication/HapticFeedback
 excerpt: 
