@@ -32,7 +32,7 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
   </video>
 </div>
 
-===
+<hr class="thick-line">
 
 ## Medical Device Development
 
