@@ -10,16 +10,17 @@ author_profile: true
 ### Journals
 
 - **DynaRing: A Patient-Specific Mitral Annuloplasty Ring With Selective Stiffness Segments**\  
-  (May 18, 2022). "DynaRing: A Patient-Specific Mitral Annuloplasty Ring With   
+  "DynaRing: A Patient-Specific Mitral Annuloplasty Ring With   
   Selective Stiffness Segments." ASME. J. Med. Devices. September 2022; 16(3):  
-  031009. https://doi.org/10.1115/1.4054445
-  
+  031009.https://doi.org/10.1115/1.4054445
+  [Link to Paper](https://doi.org/10.1115/1.4054445)
   [PDF Paper](http://zkarachi.github.io/files/paper1.pdf)
 
 - **Structural accessibility barriers and service gaps facing refugees with disabilities in the United States**\
   F. Hamidi., and Z. Karachiwalla. (2022). Structural accessibility barriers and     service gaps facing refugees with disabilities in the United States", Journal of 
   Enabling Technologies 
   
+  [Link to Paper](https://www.emerald.com/insight/content/doi/10.1108/JET-11-2021-0054/full/html?utm_campaign=Emerald_Health_PPV_Dec22_RoN)
   [PDF Paper](http://zkarachi.github.io/files/UnderstandingBarriers.pdf)
 
 - **A Multi-Axis FBG-Based Tactile Sensor for Gripping in Space**\
