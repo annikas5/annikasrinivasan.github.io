@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-robot1.HEIC
 
 <div style="text-align: center;">
   <img src="http://zkarachi.github.io/files/robot1.png"  />
