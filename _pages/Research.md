@@ -56,7 +56,7 @@ I developed a system to test the durability of a new mitral valve ring design th
 
 I wanted to understand the perspectives of refugees with disabilities on social-cultural barriers that effect their access to medical care.  With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
 
-## Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
+##@ Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
 
 I wanted to understand the perspectives of refugees with disabilities on service-gaps (especially between refugees and healthcare providers) that effect their access to medical care.  With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
 
