@@ -32,6 +32,14 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
   </video>
 </div>
 
+<style>
+.thick-line {
+  border: none;
+  background-color: black;
+  height: 5px;
+}
+</style>
+
 <hr class="thick-line">
 
 ## Medical Device Development
