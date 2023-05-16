@@ -11,7 +11,7 @@ redirect_from:
 robot1.HEIC
 
 <div style="text-align: center;">
-  <img src="robot1.HEIC" alt="Description" />
+  <img src="http://zkarachi.github.io/files/robot1.HEIC" alt="Description" />
 </div>
 
 
