@@ -18,12 +18,14 @@ author_profile: true
 - **Structural accessibility barriers and service gaps facing refugees with disabilities in the United States**\
   F. Hamidi., and Z. Karachiwalla. (2022). Structural accessibility barriers and     service gaps facing refugees with disabilities in the United States", Journal of 
   Enabling Technologies 
-  [Read Paper](http://zkarachi.github.io/files/UnderstandingBarriers.pdf)
+  
+  [PDF Paper](http://zkarachi.github.io/files/UnderstandingBarriers.pdf)
 
 - **A Multi-Axis FBG-Based Tactile Sensor for Gripping in Space**\
   S. Frishman*., J.Di*., Z. Karachiwalla., B. Richard., K. Moslehi., T. Smith., B.   Coltin., B. Moslehi., and M. R. Cutkosky. (2021).  A Multi-Axis FBG-Based Tactile   Sensor for Gripping in Space. 2021 IEEE/RSJ International Conference on      
   Intelligent Robots and Systems (IROS) 
-  [Read Paper](http://zkarachi.github.io/files/FBG.pdf)
+  
+  [PDF Paper](http://zkarachi.github.io/files/FBG.pdf)
 
 - **Spermathecal Variation By Mating System in Temperate Harvestmen**\
   Z. Karachiwalla., T. Decarvalho., and M. Burns,. (2020). Spermathecal Variation   
@@ -43,17 +45,20 @@ author_profile: true
   understanding socio-cultural accessibility barriers for refugees with   
   disabilities in the US. In Proceedings of the 19th International Web for All  
   Conference (W4A '22). Association for Computing Machinery
-  [Read Paper](http://zkarachi.github.io/files/paper2.pdf)
+  
+  [PDF Paper](http://zkarachi.github.io/files/paper2.pdf)
 
 - **Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments**\
   S. Machaca, Z. Karachiwalla, N. D. Riaziat and J. D. Brown. (2022) . Towards a  
   ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally   
   Invasive Surgery Training Assessments. 2022 International Symposium on Medical  
   Robotics (ISMR)
-  [Read Paper](http://zkarachi.github.io/files/paper3.pdf)
+  
+  [PDF Paper](http://zkarachi.github.io/files/paper3.pdf)
 
 - **"Fear is Grounded in Reality": The Impact of COVID-19 Pandemic on Refugees'     Access to Health and Accessibility Resources in the United States**\
   F. Hamidi., and Z. Karachiwalla. (2022). “Fear is Grounded in Reality”: The   
   Impact of COVID-19 Pandemic on Refugees’ Access to Health and Accessibility   
   Resources in the United States. In ACM SIGCAS/SIGCHI Conference on Computing and   Sustainable Societies (COMPASS '22). Association for Computing Machinery. 
-  [Read Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
+  
+  [PDF Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
