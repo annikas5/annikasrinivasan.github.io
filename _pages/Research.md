@@ -17,8 +17,8 @@ I helped create a bimanual haptic feedback device to assist novice surgeons on t
   <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="float:left; width:50%;">
   <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="float:right; width:50%;">
 </div>
-<br>
 
+<br>
 ###  Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
 
 I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot’s controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
@@ -56,7 +56,7 @@ I developed a system to test the durability of a new mitral valve ring design th
 
 I wanted to understand the perspectives of refugees with disabilities on social-cultural barriers that effect their access to medical care.  With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
 
-##@ Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
+### Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
 
 I wanted to understand the perspectives of refugees with disabilities on service-gaps (especially between refugees and healthcare providers) that effect their access to medical care.  With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
 
