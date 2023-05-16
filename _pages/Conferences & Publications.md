@@ -5,7 +5,7 @@ permalink: /Conferences & Publications/
 author_profile: true
 ---
 ### Journals
-- **DynaRing: A Patient-Specific Mitral Annuloplasty Ring With Selective Stiffness Segments**\  
+- **DynaRing: A Patient-Specific Mitral Annuloplasty Ring With Selective Stiffness Segments**
   "DynaRing: A Patient-Specific Mitral Annuloplasty Ring With   
   Selective Stiffness Segments." ASME. J. Med. Devices. September 2022; 16(3):  
   031009.
