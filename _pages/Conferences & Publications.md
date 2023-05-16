@@ -4,7 +4,7 @@ title: "Conferences & Publications"
 permalink: /Conferences & Publications/
 author_profile: true
 ---
-<span style="font-size: 5px;">This text has a font size of 20 pixels.</span>
+<span style="font-size: 5px;"
 
 ### Journals
 
@@ -68,3 +68,5 @@ author_profile: true
   
   [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851)<br>
   [PDF Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
+  
+  </span>
