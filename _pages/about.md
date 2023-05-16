@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
-<div style="text-align: center;">
-  <img src="http://zkarachi.github.io/files/robot1.png"  />
-</div>
-
+<p align="center">
+  <img src="http://zkarachi.github.io/files/robot1.png" alt="Description" width="400" height="300" />
+</p>
 
 I am a Ph.D. student in the Robotics Institute at Carnegie Mellon University advised by Assistant Professor Henny Admoni [HARP Lab](http://harp.ri.cmu.edu/) and Assistant Professor Zackory Erickson [RCHI Lab](https://rchi-lab.github.io/). My research focuses on leveraging user input to guide the design of accessible robotic systems, particularly in addressing the needs of the healthcare community and optimizing the design of robotic solutions. 
 
