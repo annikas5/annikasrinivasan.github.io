@@ -4,8 +4,7 @@ title: "Conferences & Publications"
 permalink: /Conferences & Publications/
 author_profile: true
 ---
-
-## Publications
+<span style="font-size: 5px;">This text has a font size of 20 pixels.</span>
 
 ### Journals
 
