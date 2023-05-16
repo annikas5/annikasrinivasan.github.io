@@ -24,10 +24,14 @@ I helped create a bimanual haptic feedback device to assist novice surgeons on t
 
 I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot’s controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
 
-<div style="display:flex;">
-  <video src="http://zkarachi.github.io/files/presentation2 (1).mp4" controls width="400"   height="300"></video>
 
 
+<div style="text-align: center;">
+  <video width="640" height="360" controls>
+    <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
