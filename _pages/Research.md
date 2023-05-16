@@ -4,6 +4,7 @@ title: "Research"
 permalink: /Research/
 author_profile: true
 ---
+---
 
 ## Haptics and Sensors Projects
 
@@ -16,10 +17,8 @@ I helped create a bimanual haptic feedback device to assist novice surgeons on t
   <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="float:left; width:50%;">
   <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="float:right; width:50%;">
 </div>
-
-
-
-
+<br>
+---
 ###  Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
 
 I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot’s controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
@@ -33,8 +32,7 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
   </video>
 </div>
 
----
-
+===
 
 ## Medical Device Development
 
@@ -49,7 +47,7 @@ I developed a system to test the durability of a new mitral valve ring design th
 </div>
 
 
----
+===
 
 ## Work on Accessible Technology
 
@@ -66,7 +64,7 @@ I wanted to understand the perspectives of refugees with disabilities on service
 
 With the hardships that hit the US with COVID-19, I wanted to understand the perspectives of refugees with disabilities on the effects of COVID-19 on their access to medical care.  With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need during COVID-19.
 
----
+===
 
 ## 3D Modeling 
 
@@ -80,7 +78,7 @@ I used confocal microscopy to develop a non-invasive imaging and 3D-reconstructi
 
 
 
----
+===
 
 
 ## Biology
