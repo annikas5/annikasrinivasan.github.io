@@ -15,8 +15,6 @@ I am using human-machine-interface (HMI) data to compute a reduced-ordered model
   <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/c739cd06d5683a4a2fd5f4504643efd36618ebc4/files/RL_CDH.png"; width:50%;">
 </div>
 
-<br>
-
 ##  HOPPY Simulation
 ### RoboDesign Lab
 
@@ -27,7 +25,6 @@ I applied robot dynamics and controls principles, including finite-state machine
 </div>
 
 ## Medical Training Arm Simulator
-
 ### The Human Dynamics and Controls Lab
 
 Rigidity is a movement disorder that is characterized by an abnormal increase in muscle tone (which is the stiffness or resistance to movement of a muscle). This condition, which is often seen in patients with Parkinson's disease, may interfere with one's movement and can result in some pain or discomfort.
@@ -40,18 +37,9 @@ My primary role on the arm trainer team was to revise the existing shroud CAD (t
 
 The next step is to conduct the study, gathering clinicians and seeing how accurate the trainer is.
 
-<div style="text-align: center;">
-  <video width="640" height="360" controls>
-    <source src="https://www.youtube.com/watch?v=sTsnueVdgew" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 <div style="display:flex;">
-  <video src="https://www.youtube.com/watch?v=sTsnueVdgew" controls width="400"   height="300"></video>
+  <iframe width="400" height="300" src="https://www.youtube.com/embed/sTsnueVdgew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
----
 
 ## Work on Accessible Technology
 
