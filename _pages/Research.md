@@ -6,24 +6,25 @@ author_profile: true
 ---
 ---
 
-## Haptics and Sensors Projects
+## Computation of Human Centroidal Dynamics
+### RoboDesign Lab
 
-### Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments
-
-I helped create a bimanual haptic feedback device to assist novice surgeons on the Intuitive Surgical da Vinci surgical robot. I developed Python code to collect and process force and acceleration data from sensors on the robot, and I remapped these signals to control wrist-squeezing and vibrotactile motors on the haptic feedback device. Furthermore, I ran user studies to test the effectiveness of these modalities with novice users.
-
+I am using human-machine-interface (HMI) data to compute a reduced-ordered model, specifically the centroidal dynamics model, in real-time for a human pilot. This model will be used to investigate human motion and balancing strategies to inspire robot control.
 
 <div>
-  <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="float:left; width:50%;">
-  <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="float:right; width:50%;">
+  <img src="http://annikasrinivasan.github.io/files/RL_CDH.webp"; width:50%;">
 </div>
 
 <br>
-###  Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
 
-I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot’s controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
+##  HOPPY Simulation
+### RoboDesign Lab
 
+I applied robot dynamics and controls principles, including finite-state machines, Jacobians, and trajectory planning, to begin creating an accurate dynamic model of HOPPY, a robot that jumps around a fixed gantry. I employed the software program MuJoCo to simulate the model and HOPPY’s movement within the gantry environment.
 
+<div>
+  <img src="http://annikasrinivasan.github.io/files/RL_HS.webp"; width:50%;">
+</div>
 
 <div style="text-align: center;">
   <video width="640" height="360" controls>
