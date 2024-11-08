@@ -26,13 +26,6 @@ I applied robot dynamics and controls principles, including finite-state machine
   <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/dcde403a9db26d64c869ac00b3708aadad6519da/files/RL_HS.png"; width:50%;">
 </div>
 
-<div style="text-align: center;">
-  <video width="640" height="360" controls>
-    <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 ## Medical Training Arm Simulator
 
 ### The Human Dynamics and Controls Lab
@@ -47,12 +40,16 @@ My primary role on the arm trainer team was to revise the existing shroud CAD (t
 
 The next step is to conduct the study, gathering clinicians and seeing how accurate the trainer is.
 
-
-<div style="display:flex;">
-  <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400"   height="300"></video>
-  <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
+<div style="text-align: center;">
+  <video width="640" height="360" controls>
+    <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
+<div style="display:flex;">
+  <video src="https://www.youtube.com/watch?v=sTsnueVdgew" controls width="400"   height="300"></video>
+</div>
 
 ---
 
