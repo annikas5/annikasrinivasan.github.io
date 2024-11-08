@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zulekha Karachiwalla Research"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Zulekha"
+name                     : &name "Annika Srinivasan"
 description              : &description "personal description"
-url                      : https://zkarachi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://annikasrinivasan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zkarachi.github.io"
-teaser                   :  "headshot1.png"
+repository               : "annikasrinivasan.github.io"
+teaser                   :  "Annika_Srinivasan_Headshot.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zulekha Karachiwalla"
-  avatar           : "headshot1.png"
-  bio              : "Robotics PhD Student at Carnegie Mellon University "
+  name             : "Annika Srinivasan"
+  avatar           : "Annika_Srinivasan_Headshot.jpg"
+  bio              : "Mechanical Engineering Student at University of Illinois Urbana-Champaign"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ikxwX54AAAAJ&hl=en"
-  email            :  "zkarachi@andrew.cmu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            :  "annikas5@illinois.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zkarachi"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zulekha-karachiwalla/"
+  linkedin         : "https://www.linkedin.com/in/annikasrini/"
   pinterest        :
   soundcloud       :
   steam            :
