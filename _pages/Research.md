@@ -11,8 +11,8 @@ author_profile: true
 
 I am using human-machine-interface (HMI) data to compute a reduced-ordered model, specifically the centroidal dynamics model, in real-time for a human pilot. This model will be used to investigate human motion and balancing strategies to inspire robot control.
 
-<div>
-  <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/c739cd06d5683a4a2fd5f4504643efd36618ebc4/files/RL_CDH.png"; width:50%;">
+<div style="display:flex;">
+  <iframe width="400" height="300" src="https://www.youtube.com/embed/sTsnueVdgew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ##  HOPPY Simulation
