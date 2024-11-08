@@ -42,7 +42,7 @@ The next step is to conduct the study, gathering clinicians and seeing how accur
 
 <div style="text-align: center;">
   <video width="640" height="360" controls>
-    <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
+    <source src="https://www.youtube.com/watch?v=sTsnueVdgew" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
