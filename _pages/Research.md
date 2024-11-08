@@ -6,8 +6,7 @@ author_profile: true
 ---
 ---
 
-## Computation of Human Centroidal Dynamics
-### RoboDesign Lab
+## Computation of Human Centroidal Dynamics ### RoboDesign Lab
 
 I am using human-machine-interface (HMI) data to compute a reduced-ordered model, specifically the centroidal dynamics model, in real-time for a human pilot. This model will be used to investigate human motion and balancing strategies to inspire robot control.
 
