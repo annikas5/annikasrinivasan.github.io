@@ -33,13 +33,19 @@ I applied robot dynamics and controls principles, including finite-state machine
   </video>
 </div>
 
----
+## Medical Training Arm Simulator
 
-## Medical Device Development
+### The Human Dynamics and Controls Lab
 
-### DynaRing: A Patient-Specific Mitral Annuloplasty Ring With Selective Stiffness Segments
+Rigidity is a movement disorder that is characterized by an abnormal increase in muscle tone (which is the stiffness or resistance to movement of a muscle). This condition, which is often seen in patients with Parkinson's disease, may interfere with one's movement and can result in some pain or discomfort.
 
-I developed a system to test the durability of a new mitral valve ring design that lasts significantly longer than currently available rings; this work was especially meaningful to me because a longer-lasting ring meant that patients did not have to replace their ring as often, thus offering a more affordable and accessible intervention.
+To evaluate rigidity, clinicians move their patients arm up and down, extending/stretching it, to determine whether the stiffness/resistance is abnormal or not (as shown in the video).
+
+This process, however, is subjective and depends on a clinician's experience. Additionally, when medical students are learning about this condition, along with being told its definition, they may get to conduct the evaluation assessment themselves on patients experiencing rigidity. As explained previously, though, this may cause patients pain and students may repeat the evaluation several times to ensure they are doing it correctly, possibly harming the patient more. In hopes of standardizing this procedure and also avoiding causing pain to patients through this assessment that may feel invasive to them, the arm trainer team at HDCL is creating a robotic simulator that would mimic different levels of rigidity, as well as other neurological behaviors, to help medical students and other healthcare trainees practice and improve their clinical techniques. Other behaviors include spasticity (which is similar to rigidity, but is dependent on the stretch velocity) and cogwheel rigidity (which is another type of rigidity but deals with tremors). 
+
+My primary role on the arm trainer team was to revise the existing shroud CAD (the shroud are the 3D printed parts surrounding the arm trainer). You can see the CAD in the picture. I found that the previous design was not secure enough and assembly/disassembly was difficult. It required several bolts for installation and having to drill and tap holes in areas that were very thin and not sturdy enough to hold all the shroud together. My goal was to optimize the number of connections and fasteners to facilitate manufacturing and assembly. I used SolidWorks when revising the CAD, doing multiple iterations, and 3D printing (used Cura) low percentage prototypes to evaluate their efficacy, ultimately doing final prints of the shroud for the arm trainer/simulator, as seen in the photo.
+
+The next step is to conduct the study, gathering clinicians and seeing how accurate the trainer is.
 
 
 <div style="display:flex;">
