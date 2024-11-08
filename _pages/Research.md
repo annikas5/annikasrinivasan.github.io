@@ -37,10 +37,12 @@ My primary role on the arm trainer team was to revise the existing shroud CAD (t
 
 The next step is to conduct the study, gathering clinicians and seeing how accurate the trainer is.
 
-<div style="display:flex;">
-  <iframe width="400" height="300" src="https://www.youtube.com/embed/sTsnueVdgew" frameborder="0" allow="accelerometer;     
-  autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTsnueVdgew?autoplay=1" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
 
 ## Work on Accessible Technology
 
