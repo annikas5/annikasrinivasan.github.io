@@ -42,12 +42,19 @@ The next step is to conduct the study, gathering clinicians and seeing how accur
   <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/63ba5dcf3a8a525dfd600241730d7b3726bf86be/files/HDCL_AT_P.png" alt="Image 2" style="float:right; width:40%;">
 </div>
 
-## Work on Accessible Technology
+## Smartphone and Headphone Charging Case
+### Computer-Aided Design (ME 170)
 
+We delivered a "ready to manufacture and market" design specification for a multi-use phone case that can simultaneously charge a smartphone and bluetooth headphones. Concepts such as human-centered design were employed to develop a product that meets consumer's unmet needs, and tools like Autodesk Fusion 360 and aPriori were utilized for optimization.
 
-### I'm ok because I'm alive" understanding socio-cultural accessibility barriers for refugees with disabilities in the US
+Moreover, my group was awarded the "ME170 Outstanding Achievement Awards for Excellence in Engineering Design" from the Department of Mechanical Science and Engineering following the completion of the project.
 
-I wanted to understand the perspectives of refugees with disabilities on social-cultural barriers that effect their access to medical care.  With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
+<div style="text-align: center;">
+  <video width="640" height="360" controls>
+    <source src="https://github.com/annikas5/annikasrinivasan.github.io/blob/d4827a9f2d880c4bb26df9930b4ce451b117cf87/files/ME170_Assembly_Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
 
