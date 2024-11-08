@@ -12,4 +12,4 @@ redirect_from:
 
 Here is my CV of my work!
 
-[Download CV (PDF) ](http://annikasrinivasan.github.io/files/CV_Srinivasan_Annika (1).pdf)
+[Download CV (PDF) ](http://annikasrinivasan.github.io/files/CV_Srinivasan_Annika_(1).pdf)
