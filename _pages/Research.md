@@ -23,7 +23,7 @@ I am using human-machine-interface (HMI) data to compute a reduced-ordered model
 I applied robot dynamics and controls principles, including finite-state machines, Jacobians, and trajectory planning, to begin creating an accurate dynamic model of HOPPY, a robot that jumps around a fixed gantry. I employed the software program MuJoCo to simulate the model and HOPPY’s movement within the gantry environment.
 
 <div>
-  <img src="http://annikasrinivasan.github.io/files/RL_HS.png"; width:50%;">
+  <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/dcde403a9db26d64c869ac00b3708aadad6519da/files/RL_HS.png"; width:50%;">
 </div>
 
 <div style="text-align: center;">
