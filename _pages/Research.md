@@ -38,8 +38,8 @@ My primary role on the arm trainer team was to revise the existing shroud CAD (t
 The next step is to conduct the study, gathering clinicians and seeing how accurate the trainer is.
 
 <div>
-  <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/63ba5dcf3a8a525dfd600241730d7b3726bf86be/files/HDCL_AT_CAD.png" alt="Image 1" style="float:left; width:50%;">
-  <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/63ba5dcf3a8a525dfd600241730d7b3726bf86be/files/HDCL_AT_P.png" alt="Image 2" style="float:right; width:50%;">
+  <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/63ba5dcf3a8a525dfd600241730d7b3726bf86be/files/HDCL_AT_CAD.png" alt="Image 1" style="float:left; width:40%;">
+  <img src="https://github.com/annikas5/annikasrinivasan.github.io/blob/63ba5dcf3a8a525dfd600241730d7b3726bf86be/files/HDCL_AT_P.png" alt="Image 2" style="float:right; width:40%;">
 </div>
 
 ## Work on Accessible Technology
